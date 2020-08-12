@@ -1,4 +1,6 @@
 # Remote-Control-Room-Measuring-Robot
+## This program lets you measure any room using the TI-RSLK
+Link to project page: https://www.hackster.io/saaketporay/remote-control-room-measuring-robot-bffdfc
 
 ## 1. Follow this guide to make a remote controlled TI-RSLK
 https://www.hackster.io/saaketporay/how-to-control-the-ti-rslk-using-a-remote-controller-f64be1
